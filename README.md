@@ -1,3 +1,5 @@
+This is my first experiment with Next.js. It is very dirty, as I am still learning the architecture (especially about the different rendering types: CSR, SSR, etc). I will keep updating this in the future.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
